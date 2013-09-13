@@ -1,5 +1,5 @@
 CHANGELOG
-README
+Manifest
+README.md
 Rakefile
 lib/rails_secret_token_env.rb
-Manifest
