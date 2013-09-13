@@ -1,2 +1,3 @@
+v0.3. do not raise error, just log error on missing env var in prod
 v0.2. fixed version
 v0.1. first version
