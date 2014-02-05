@@ -1,3 +1,4 @@
+v0.4. Set app.config.secret_key_base for rails 4 
 v0.3. do not raise error, just log error on missing env var in prod
 v0.2. fixed version
 v0.1. first version
